@@ -1,7 +1,7 @@
 ### Conforme orientado no texte, foi realizado as 5 atividades disponibilizadas. As atividades foram separadas em arquivos para ficar fácil a identificação das mesmas e consequêntimente, será melhor de realizar a correção.
 ### Desde já agredeço a oportunidade da participação no processo.
 
-###Questões:
+### Questões:
 
 * 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
  Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
